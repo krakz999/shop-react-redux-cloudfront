@@ -1,3 +1,8 @@
+# Task 2
+
+[S3 URL](https://deploywebappstack-deploymentfrontendbucket67ceb713-e0l1ic74citi.s3.eu-central-1.amazonaws.com/index.html)
+[CF URL](https://du6u1whr8j34w.cloudfront.net)
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
